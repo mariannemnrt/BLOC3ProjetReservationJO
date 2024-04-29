@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QZtOiAjnU5FVOzXzBR8HsDy8obc80Raoi74aAhh8I6nsaEfYmVwDKMRqFoL3+TKM190laqepOjhTLc/CmmQQQA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maria\\source\\repos\\BLOC3ProjetReservationJO\\BLOC3ProjetReservationJO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maria\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
+    "C:\\Users\\maria\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.20.1\\microsoft.visualstudio.azure.containers.tools.targets.1.20.1.nupkg.sha512"
+  ],
+  "logs": []
+}

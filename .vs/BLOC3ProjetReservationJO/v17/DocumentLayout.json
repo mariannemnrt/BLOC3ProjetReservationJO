@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maria\\source\\repos\\BLOC3ProjetReservationJO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA14E358-750E-4E04-8B9B-CB0C8D5069A9}|BLOC3ProjetReservationJO.csproj|c:\\users\\maria\\source\\repos\\bloc3projetreservationjo\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA14E358-750E-4E04-8B9B-CB0C8D5069A9}|BLOC3ProjetReservationJO.csproj|solutionrelative:models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA14E358-750E-4E04-8B9B-CB0C8D5069A9}|BLOC3ProjetReservationJO.csproj|c:\\users\\maria\\source\\repos\\bloc3projetreservationjo\\controllers\\visitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA14E358-750E-4E04-8B9B-CB0C8D5069A9}|BLOC3ProjetReservationJO.csproj|solutionrelative:controllers\\visitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA14E358-750E-4E04-8B9B-CB0C8D5069A9}|BLOC3ProjetReservationJO.csproj|c:\\users\\maria\\source\\repos\\bloc3projetreservationjo\\models\\eventmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA14E358-750E-4E04-8B9B-CB0C8D5069A9}|BLOC3ProjetReservationJO.csproj|solutionrelative:models\\eventmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA14E358-750E-4E04-8B9B-CB0C8D5069A9}|BLOC3ProjetReservationJO.csproj|c:\\users\\maria\\source\\repos\\bloc3projetreservationjo\\models\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA14E358-750E-4E04-8B9B-CB0C8D5069A9}|BLOC3ProjetReservationJO.csproj|solutionrelative:models\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA14E358-750E-4E04-8B9B-CB0C8D5069A9}|BLOC3ProjetReservationJO.csproj|c:\\users\\maria\\source\\repos\\bloc3projetreservationjo\\models\\offermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA14E358-750E-4E04-8B9B-CB0C8D5069A9}|BLOC3ProjetReservationJO.csproj|solutionrelative:models\\offermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA14E358-750E-4E04-8B9B-CB0C8D5069A9}|BLOC3ProjetReservationJO.csproj|c:\\users\\maria\\source\\repos\\bloc3projetreservationjo\\bloc3projetreservationjo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EA14E358-750E-4E04-8B9B-CB0C8D5069A9}|BLOC3ProjetReservationJO.csproj|solutionrelative:bloc3projetreservationjo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA14E358-750E-4E04-8B9B-CB0C8D5069A9}|BLOC3ProjetReservationJO.csproj|c:\\users\\maria\\source\\repos\\bloc3projetreservationjo\\models\\commandmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA14E358-750E-4E04-8B9B-CB0C8D5069A9}|BLOC3ProjetReservationJO.csproj|solutionrelative:models\\commandmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA14E358-750E-4E04-8B9B-CB0C8D5069A9}|BLOC3ProjetReservationJO.csproj|c:\\users\\maria\\source\\repos\\bloc3projetreservationjo\\controllers\\visitorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA14E358-750E-4E04-8B9B-CB0C8D5069A9}|BLOC3ProjetReservationJO.csproj|solutionrelative:controllers\\visitorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BLOC3ProjetReservationJO",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\BLOC3ProjetReservationJO\\BLOC3ProjetReservationJO.csproj",
+              "RelativeDocumentMoniker": "BLOC3ProjetReservationJO.csproj",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\BLOC3ProjetReservationJO\\BLOC3ProjetReservationJO.csproj",
+              "RelativeToolTip": "BLOC3ProjetReservationJO.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-29T15:55:13.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\BLOC3ProjetReservationJO\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "Models\\UserModel.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\BLOC3ProjetReservationJO\\Models\\UserModel.cs",
+              "RelativeToolTip": "Models\\UserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T15:40:02.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CommandModel.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\BLOC3ProjetReservationJO\\Models\\CommandModel.cs",
+              "RelativeDocumentMoniker": "Models\\CommandModel.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\BLOC3ProjetReservationJO\\Models\\CommandModel.cs",
+              "RelativeToolTip": "Models\\CommandModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T15:24:17.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "enum.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\BLOC3ProjetReservationJO\\Models\\enum.cs",
+              "RelativeDocumentMoniker": "Models\\enum.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\BLOC3ProjetReservationJO\\Models\\enum.cs",
+              "RelativeToolTip": "Models\\enum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T15:12:35.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OfferModel.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\BLOC3ProjetReservationJO\\Models\\OfferModel.cs",
+              "RelativeDocumentMoniker": "Models\\OfferModel.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\BLOC3ProjetReservationJO\\Models\\OfferModel.cs",
+              "RelativeToolTip": "Models\\OfferModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T15:05:09.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventModel.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\BLOC3ProjetReservationJO\\Models\\EventModel.cs",
+              "RelativeDocumentMoniker": "Models\\EventModel.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\BLOC3ProjetReservationJO\\Models\\EventModel.cs",
+              "RelativeToolTip": "Models\\EventModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvx0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T14:11:14.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Visitor.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\BLOC3ProjetReservationJO\\Controllers\\Visitor.cs",
+              "RelativeDocumentMoniker": "Controllers\\Visitor.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\BLOC3ProjetReservationJO\\Controllers\\Visitor.cs",
+              "RelativeToolTip": "Controllers\\Visitor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBEAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T13:59:18.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VisitorController.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\BLOC3ProjetReservationJO\\Controllers\\VisitorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VisitorController.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\BLOC3ProjetReservationJO\\Controllers\\VisitorController.cs",
+              "RelativeToolTip": "Controllers\\VisitorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T13:58:31.56Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
