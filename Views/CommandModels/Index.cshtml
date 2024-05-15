@@ -1,0 +1,53 @@
+﻿@model IEnumerable<BLOC3ProjetReservationJO.Models.CommandModel>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.CommandDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PaymentKey)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UserKey)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TicketKey)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CommandDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PaymentKey)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UserKey)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TicketKey)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.CommandId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.CommandId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.CommandId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

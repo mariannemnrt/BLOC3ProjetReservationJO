@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BLOC3ProjetReservationJO.props" />
+</Project>

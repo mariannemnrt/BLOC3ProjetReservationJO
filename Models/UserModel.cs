@@ -1,9 +1,11 @@
 ﻿
+using System.ComponentModel.DataAnnotations;
 namespace BLOC3ProjetReservationJO.Models
 {
     public class UserModel
     {
         // clé unique utilisateur 
+        [Key]
         public Guid UserKey { get; set; }
         // nom de l'utilisateur 
         public string? UserName { get; set; }
@@ -12,13 +14,11 @@ namespace BLOC3ProjetReservationJO.Models
         // email de l'utilisateur   
         public string? UserEmail { get; set; }
         // mot de passe de l'utilisateur
-        public string? UserPassword { get; set; } 
-        //choix de l'event par l'utilisateur
-        public EventModel? EventChosen { get; set; }
-        //choix de l'offre par l'utilisateur
-        public OfferModel? OfferChosen { get; set; }
-        //booléen pour vérifier si l'utilisateur est bien inscrit   
-        public bool UserChecked { get; set; } = false;    
+        public string? UserPassword { get; set; }
 
+        //Utilisateur existe déjà en BDD
+        public bool UserExists { get; set; }= false;
+        // Utilisateur est connecté
+        public bool UserConnected { get; set; } = false;
     }
 }

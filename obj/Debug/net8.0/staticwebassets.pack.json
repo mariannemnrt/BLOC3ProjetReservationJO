@@ -13,6 +13,18 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\maria\\source\\repos\\BLOC3ProjetReservationJO\\wwwroot\\images\\athletisme.jpg",
+      "PackagePath": "staticwebassets\\images\\athletisme.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maria\\source\\repos\\BLOC3ProjetReservationJO\\wwwroot\\images\\judo.jpg",
+      "PackagePath": "staticwebassets\\images\\judo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maria\\source\\repos\\BLOC3ProjetReservationJO\\wwwroot\\images\\natation.JPG",
+      "PackagePath": "staticwebassets\\images\\natation.JPG"
+    },
+    {
       "Id": "C:\\Users\\maria\\source\\repos\\BLOC3ProjetReservationJO\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

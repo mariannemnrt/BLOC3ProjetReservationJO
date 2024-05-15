@@ -4,6 +4,7 @@ namespace BLOC3ProjetReservationJO.Models
     public class CommandModel
     {
         // clé primaire pour la BDD
+        [Key]
         public Guid CommandId { get; set; }
         //date de la commande
         [DataType(DataType.Date)]

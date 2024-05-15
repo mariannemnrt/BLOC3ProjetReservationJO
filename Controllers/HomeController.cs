@@ -2,6 +2,7 @@ using BLOC3ProjetReservationJO.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
+
 namespace BLOC3ProjetReservationJO.Controllers
 {
     public class HomeController : Controller
@@ -19,6 +20,15 @@ namespace BLOC3ProjetReservationJO.Controllers
         }
 
         public IActionResult Privacy()
+        {
+            return View();
+        }
+
+        public IActionResult logIn()
+        {
+            return View();
+        }
+        public IActionResult CreateAccompt()
         {
             return View();
         }

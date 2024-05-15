@@ -1,8 +1,58 @@
 ﻿@{
     ViewData["Title"] = "Home Page";
 }
+<!-- Présentation des jeux olympiques -->
+<div>
+    <h1 class="display-4 text-center mb-4">Les jeux Olympiques à Paris</h1>
+    <h2 class="mb-4">Les Jeux Olympiques de Paris en 2024 rassembleront des athlètes du monde entier pour deux semaines de compétition intense. Au cœur de la Ville Lumière, ces Jeux incarneront l'unité, la passion et l'excellence sportive, laissant un héritage durable pour les générations futures. Ne manquez pas cette célébration unique de l'humanité et du dépassement de soi. </h2>
+</div>
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<!-- présentation des épreuves sous forme de carte-->
+<div class="container-fluid justify-content text-center">
+    
+        <div class="d-flex flex-row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4">
+            <div class="card  mx-2 mb-2" >
+                
+                <div class="card-header">
+                    <h5 class="card-title">Athlétisme</h5>
+                </div>
+
+                <div class="card-body">
+
+                    <img src="~/images/athletisme.jpg" class="card-img-top  mb-4 text-center" alt="Athlétisme" height=" 200" ibject-fit="cover">
+                    <a id="athletisme" class="btn-primary text-center " href="offre.cshtml" role="button">Voir les offres pour cette épreuve</a>
+                </div>
+            </div>
+
+
+            <div class="card mx-2 mb-2" >
+
+                <div class="card-header">
+                    <h5 class="card-title">Judo</h5>
+                </div>
+
+                <div class="card-body">
+                    <img src="~/images/judo.jpg" class="card-img-top  mb-4 text-center" alt="judo" height="200" object-fit="cover">
+                    <a id="judo" class="btn-primary text-center" href="offre.cshtml" role="button">Voir les offres pour cette épreuve</a>
+                </div>
+            </div>
+
+            <div class="card  mx-2 mb-2 ">
+
+                <div class="card-header">
+                    <h5 class="card-title">natation</h5>
+                </div>  
+
+                <div class="card-body">
+                <img src="~/images/natation.jpg" class="card-img-top mb-4 text-center" alt="natation" height="200" object-fit="cover" >
+                
+                
+                    <a id="natation" class="btn-primary text-center" href="offre.cshtml" role="button">Voir les offres pour cette épreuve</a>
+                </div>
+            </div>
+            
+           
+            
+    </div>
+    
 </div>

@@ -1,0 +1,157 @@
+﻿<!DOCTYPE html> 
+<html lang="fr">
+
+    <head>
+        <title>cRER UN COMPTE </title>
+    </head>
+    <body>
+
+        <h1>Créer son compte</h1>
+        <p>Veuillez créer un compte pour terminer votre réservation</p>
+        <div class="container"></div>
+            <div class="form-group row">
+                <div class="col-md-6">
+                <!--Champs pour renseigner le nom de l'utilisateur -->
+                    <div class="mb-3">
+            
+                        <label for="UserName" class="form-label form-control-sm" >Nom d'utilisateur  </label>
+                        <input type="text" class="form-control" id="UserName" placeholder="Dupuis" required>
+                    </div>
+
+                    <!--Champs pour renseigner le prénom de l'utilisateur -->
+                <div class="mb-3">
+                    <label for="UserFirstName" class="form-label">Prénom utilisateur  </label>
+                    <input type="text" class="form-control" id="UserFirstName" placeholder="Martin" required>
+                </div>
+
+                <!--Champs pour renseigner l'email de l'utilisateur-->
+                <div class="mb-3">
+                    <label for="UserEmail" class="form-label">email </label>
+                    <input onchange="validerCourriel() "class="form-control" id="UserEmail" placeholder="martindupuis@gmail.com" type="email" required>
+                </div>
+
+                    <!--Champs pour renseigner le mot de passe -->
+                <div class="mb-3">
+                    <label for="UserPassword" class="form-label">Mot de passe </label>
+                    <input type="password" onchange="validerMotDePasse()" class="form-control" id="UserPassword" placeholder="********"  required>
+                </div>
+
+                <!--consignes pour le choix du mot de passe-->
+                <div class="text-muted">
+                    <ul>
+                        <li>Le mot de passe doit contenir au moins 8 caractères</li>
+                        <li>Le mot de passe doit contenir au moins une lettre majuscule</li>
+                        <li>Le mot de passe doit contenir au moins un chiffre</li>
+                        <li>Le mot de passe doit contenir au moins un caractère spécial</li>
+                    </ul>
+                </div>
+
+                    <!--confirmation du mot de passe-->
+                <div class="mb-3">
+                    <label for="UserPasswordConfirm" class="form-label">Confirmer le mot de passe </label>
+                    <input type="password" onchange="validerConfirmationMotDePasse()" class="form-control" id="UserPasswordConfirm" placeholder="********" required>
+                </div>
+
+                <!--Bouton pour valider le formulaire-->
+                <button type="submit" class="btn btn-primary" onclick="doubleauthentification()">Créer un compte</button>
+
+            </div>
+
+            <!--2e partie de la page pour afficher le lien double authentification-->
+            <div class="col-md-6" id="doubleauthentification" style="display:none;">
+                <h2>double authentification</h2>
+                <p>lien envoyé par mail pour valider la double authentification</p>
+                <a href="command.cshtml">Valider la double authentification</a>
+
+
+            </div>
+        </div>
+
+
+
+
+            <!--lien vers le fichier js pour vérifier les champs-->
+        <script >
+            // Scripts pour valider les champs du formulaire coté client
+            function validerMotDePasse() {
+                var motDePasse = document.getElementById("UserPassword").value;
+                var message = "";
+
+            // test de la longueur du mot de passe    
+                if (motDePasse.length < 8) {
+                    message += "le mot de passe est trop court";
+                    return false;
+                };
+            // vérifier la présence d'au moins une minuscule
+                var motif = /[a-z]/;
+                if (!motif.test(motDePasse)) {
+                    message += "le mot de passe doit contenir au moins une lettre minuscule";
+                    return false;
+                };
+
+            // vérifier la présence d'au moins une majuscule
+
+                motif = /[A-Z]/;
+                if (!motif.test(motDePasse)) {
+                    message += "le mot de passe doit contenir au moins une lettre majuscule";
+                        return false;
+                };
+            // vérifier la présence d'au moins un chiffre 
+                motif = /[0-9]/;
+                if (!motif.test(motDePasse)) {
+                    message += "le mot de passe doit contenir au moins un chiffre";
+                    return false;
+                };
+            //vérifier la présence d'au moins un caractère spécial
+                motif = /[^a-zA-Z0-9]/;
+                if (!motif.test(motDePasse)) {
+                    message += "le mot de passe doit contenir au moins un caractère spécial";
+                    alert(message);
+                    return false;
+                };
+    
+    
+                return true;
+            }
+
+            //fonction pour valider le courriel
+        
+        function validerCourriel(courriel) {
+                
+            var courriel = document.getElementById("UserEmail").value;
+            // teste le format de l'email à l'aide d'une expression régulière 
+    
+                var motif = /^[a-zA-Z0-9._%+-]+@@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/;
+
+
+                if (!motif.test(courriel)) {
+                    alert("Le courriel n'est pas valide.");
+                    return false;
+                };
+                return true;
+                
+            };
+            //fonction pour valider la confirmation du mot de passe
+            function validerConfirmationMotDePasse() {
+                var motDePasse = document.getElementById("password").value;
+                var confirmationMotDePasse = document.getElementById("UserPasswordConfirm").value;
+
+                if (motDePasse != confirmationMotDePasse) {
+                    alert("Les mots de passe ne correspondent pas.");
+                    return false;
+                };
+                return true;
+            };
+
+            //fonction pour envoyer le lien de double authentification 
+            function doubleauthentification() {
+
+                var liendoubleauth=document.getElementById("doubleauthentification");
+                liendoubleauth.style.display='block';
+            };
+
+
+        </script>
+    <!--<script type="text/javascript" src="../scripts/validationformulaire.js"></script>-->
+    </body>
+</html>

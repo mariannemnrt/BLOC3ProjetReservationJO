@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BLOC3ProjetReservationJO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+71a33f046b173578599aa4e99ee0b49b9823f1bb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b5c83454d7d46a59d5ce66d8ef641e4f2772adf")]
 [assembly: System.Reflection.AssemblyProductAttribute("BLOC3ProjetReservationJO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BLOC3ProjetReservationJO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,4 +1,15 @@
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+using BLOC3ProjetReservationJO.Data;
+
+
 var builder = WebApplication.CreateBuilder(args);
+
+
+builder.Services.AddDbContext<BLOC3ProjetReservationJOContext>(options =>
+
+
+    options.UseNpgsql(builder.Configuration.GetConnectionString("BLOC3ProjetReservationJOContext") ?? throw new InvalidOperationException("Connection string 'BLOC3ProjetReservationJOContext' not found.")));
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
@@ -25,3 +36,4 @@ app.MapControllerRoute(
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.Run();
+
