@@ -48,7 +48,14 @@
 
   <ItemGroup>
     <Folder Include="Views\images\" />
+    <Folder Include="Views\scripts\" />
     <Folder Include="wwwroot\images\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\js\eventselection.js" />
+    <None Include="wwwroot\js\sendingDatas.js" />
+    <None Include="wwwroot\js\validationformulaire.js" />
   </ItemGroup>
 
 </Project>

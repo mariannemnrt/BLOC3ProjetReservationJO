@@ -3,28 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\maria\\source\\repos\\BLOC3ProjetReservationJO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EA14E358-750E-4E04-8B9B-CB0C8D5069A9}|BLOC3ProjetReservationJO.csproj|c:\\users\\maria\\source\\repos\\bloc3projetreservationjo\\views\\scripts\\sendingdatas.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{EA14E358-750E-4E04-8B9B-CB0C8D5069A9}|BLOC3ProjetReservationJO.csproj|solutionrelative:views\\scripts\\sendingdatas.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA14E358-750E-4E04-8B9B-CB0C8D5069A9}|BLOC3ProjetReservationJO.csproj|c:\\users\\maria\\source\\repos\\bloc3projetreservationjo\\controllers\\offercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA14E358-750E-4E04-8B9B-CB0C8D5069A9}|BLOC3ProjetReservationJO.csproj|solutionrelative:controllers\\offercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA14E358-750E-4E04-8B9B-CB0C8D5069A9}|BLOC3ProjetReservationJO.csproj|c:\\users\\maria\\source\\repos\\bloc3projetreservationjo\\views\\scripts\\eventselection.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{EA14E358-750E-4E04-8B9B-CB0C8D5069A9}|BLOC3ProjetReservationJO.csproj|solutionrelative:views\\scripts\\eventselection.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA14E358-750E-4E04-8B9B-CB0C8D5069A9}|BLOC3ProjetReservationJO.csproj|c:\\users\\maria\\source\\repos\\bloc3projetreservationjo\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EA14E358-750E-4E04-8B9B-CB0C8D5069A9}|BLOC3ProjetReservationJO.csproj|solutionrelative:views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA14E358-750E-4E04-8B9B-CB0C8D5069A9}|BLOC3ProjetReservationJO.csproj|c:\\users\\maria\\source\\repos\\bloc3projetreservationjo\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EA14E358-750E-4E04-8B9B-CB0C8D5069A9}|BLOC3ProjetReservationJO.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA14E358-750E-4E04-8B9B-CB0C8D5069A9}|BLOC3ProjetReservationJO.csproj|c:\\users\\maria\\source\\repos\\bloc3projetreservationjo\\views\\home\\command.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EA14E358-750E-4E04-8B9B-CB0C8D5069A9}|BLOC3ProjetReservationJO.csproj|solutionrelative:views\\home\\command.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EA14E358-750E-4E04-8B9B-CB0C8D5069A9}|BLOC3ProjetReservationJO.csproj|c:\\users\\maria\\source\\repos\\bloc3projetreservationjo\\wwwroot\\js\\validationformulaire.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{EA14E358-750E-4E04-8B9B-CB0C8D5069A9}|BLOC3ProjetReservationJO.csproj|solutionrelative:wwwroot\\js\\validationformulaire.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EA14E358-750E-4E04-8B9B-CB0C8D5069A9}|BLOC3ProjetReservationJO.csproj|c:\\users\\maria\\source\\repos\\bloc3projetreservationjo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -35,11 +15,47 @@
       "RelativeMoniker": "D:0:0:{EA14E358-750E-4E04-8B9B-CB0C8D5069A9}|BLOC3ProjetReservationJO.csproj|solutionrelative:views\\home\\createaccompt.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE8E1AAD-13CA-429E-8D02-5200C47C938C}|..\\testMS\\testMS.csproj|c:\\users\\maria\\source\\repos\\testms\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA14E358-750E-4E04-8B9B-CB0C8D5069A9}|BLOC3ProjetReservationJO.csproj|c:\\users\\maria\\source\\repos\\bloc3projetreservationjo\\views\\home\\offre.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA14E358-750E-4E04-8B9B-CB0C8D5069A9}|BLOC3ProjetReservationJO.csproj|solutionrelative:views\\home\\offre.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA14E358-750E-4E04-8B9B-CB0C8D5069A9}|BLOC3ProjetReservationJO.csproj|c:\\users\\maria\\source\\repos\\bloc3projetreservationjo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA14E358-750E-4E04-8B9B-CB0C8D5069A9}|BLOC3ProjetReservationJO.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EA14E358-750E-4E04-8B9B-CB0C8D5069A9}|BLOC3ProjetReservationJO.csproj|c:\\users\\maria\\source\\repos\\bloc3projetreservationjo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EA14E358-750E-4E04-8B9B-CB0C8D5069A9}|BLOC3ProjetReservationJO.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA14E358-750E-4E04-8B9B-CB0C8D5069A9}|BLOC3ProjetReservationJO.csproj|c:\\users\\maria\\source\\repos\\bloc3projetreservationjo\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA14E358-750E-4E04-8B9B-CB0C8D5069A9}|BLOC3ProjetReservationJO.csproj|solutionrelative:views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA14E358-750E-4E04-8B9B-CB0C8D5069A9}|BLOC3ProjetReservationJO.csproj|c:\\users\\maria\\source\\repos\\bloc3projetreservationjo\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA14E358-750E-4E04-8B9B-CB0C8D5069A9}|BLOC3ProjetReservationJO.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA14E358-750E-4E04-8B9B-CB0C8D5069A9}|BLOC3ProjetReservationJO.csproj|c:\\users\\maria\\source\\repos\\bloc3projetreservationjo\\wwwroot\\js\\eventselection.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{EA14E358-750E-4E04-8B9B-CB0C8D5069A9}|BLOC3ProjetReservationJO.csproj|solutionrelative:wwwroot\\js\\eventselection.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA14E358-750E-4E04-8B9B-CB0C8D5069A9}|BLOC3ProjetReservationJO.csproj|c:\\users\\maria\\source\\repos\\bloc3projetreservationjo\\controllers\\userinscriptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA14E358-750E-4E04-8B9B-CB0C8D5069A9}|BLOC3ProjetReservationJO.csproj|solutionrelative:controllers\\userinscriptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA14E358-750E-4E04-8B9B-CB0C8D5069A9}|BLOC3ProjetReservationJO.csproj|c:\\users\\maria\\source\\repos\\bloc3projetreservationjo\\wwwroot\\js\\sendingdatas.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{EA14E358-750E-4E04-8B9B-CB0C8D5069A9}|BLOC3ProjetReservationJO.csproj|solutionrelative:wwwroot\\js\\sendingdatas.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA14E358-750E-4E04-8B9B-CB0C8D5069A9}|BLOC3ProjetReservationJO.csproj|c:\\users\\maria\\source\\repos\\bloc3projetreservationjo\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA14E358-750E-4E04-8B9B-CB0C8D5069A9}|BLOC3ProjetReservationJO.csproj|solutionrelative:models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA14E358-750E-4E04-8B9B-CB0C8D5069A9}|BLOC3ProjetReservationJO.csproj|c:\\users\\maria\\source\\repos\\bloc3projetreservationjo\\controllers\\offercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA14E358-750E-4E04-8B9B-CB0C8D5069A9}|BLOC3ProjetReservationJO.csproj|solutionrelative:controllers\\offercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE8E1AAD-13CA-429E-8D02-5200C47C938C}|..\\testMS\\testMS.csproj|c:\\users\\maria\\source\\repos\\testms\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EA14E358-750E-4E04-8B9B-CB0C8D5069A9}|BLOC3ProjetReservationJO.csproj|c:\\users\\maria\\source\\repos\\bloc3projetreservationjo\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -57,47 +73,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "sendingDatas.js",
-              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\BLOC3ProjetReservationJO\\Views\\scripts\\sendingDatas.js",
-              "RelativeDocumentMoniker": "Views\\scripts\\sendingDatas.js",
-              "ToolTip": "C:\\Users\\maria\\source\\repos\\BLOC3ProjetReservationJO\\Views\\scripts\\sendingDatas.js",
-              "RelativeToolTip": "Views\\scripts\\sendingDatas.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-05-15T14:59:37.714Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\BLOC3ProjetReservationJO\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\maria\\source\\repos\\BLOC3ProjetReservationJO\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-15T14:52:11.733Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LogIn.cshtml",
-              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\BLOC3ProjetReservationJO\\Views\\Home\\LogIn.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\LogIn.cshtml",
-              "ToolTip": "C:\\Users\\maria\\source\\repos\\BLOC3ProjetReservationJO\\Views\\Home\\LogIn.cshtml",
-              "RelativeToolTip": "Views\\Home\\LogIn.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-15T14:44:43.66Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -108,7 +85,145 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LogIn.cshtml",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\BLOC3ProjetReservationJO\\Views\\Home\\LogIn.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\LogIn.cshtml",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\BLOC3ProjetReservationJO\\Views\\Home\\LogIn.cshtml",
+              "RelativeToolTip": "Views\\Home\\LogIn.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T14:44:43.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\BLOC3ProjetReservationJO\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\BLOC3ProjetReservationJO\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T19:05:50.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "validationformulaire.js",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\BLOC3ProjetReservationJO\\wwwroot\\js\\validationformulaire.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\validationformulaire.js",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\BLOC3ProjetReservationJO\\wwwroot\\js\\validationformulaire.js",
+              "RelativeToolTip": "wwwroot\\js\\validationformulaire.js",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-17T10:08:32.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\BLOC3ProjetReservationJO\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\BLOC3ProjetReservationJO\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T14:21:34.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Offre.cshtml",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\BLOC3ProjetReservationJO\\Views\\Home\\Offre.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Offre.cshtml",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\BLOC3ProjetReservationJO\\Views\\Home\\Offre.cshtml",
+              "RelativeToolTip": "Views\\Home\\Offre.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T15:42:04.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\BLOC3ProjetReservationJO\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\BLOC3ProjetReservationJO\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T19:02:38.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "eventselection.js",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\BLOC3ProjetReservationJO\\wwwroot\\js\\eventselection.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\eventselection.js",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\BLOC3ProjetReservationJO\\wwwroot\\js\\eventselection.js",
+              "RelativeToolTip": "wwwroot\\js\\eventselection.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-14T08:41:16.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "sendingDatas.js",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\BLOC3ProjetReservationJO\\wwwroot\\js\\sendingDatas.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\sendingDatas.js",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\BLOC3ProjetReservationJO\\wwwroot\\js\\sendingDatas.js",
+              "RelativeToolTip": "wwwroot\\js\\sendingDatas.js",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAQwCUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-15T14:59:37.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\BLOC3ProjetReservationJO\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\BLOC3ProjetReservationJO\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T14:52:11.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserInscriptionController.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\BLOC3ProjetReservationJO\\Controllers\\UserInscriptionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserInscriptionController.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\BLOC3ProjetReservationJO\\Controllers\\UserInscriptionController.cs",
+              "RelativeToolTip": "Controllers\\UserInscriptionController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwB4AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T09:19:13.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\BLOC3ProjetReservationJO\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "Models\\UserModel.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\BLOC3ProjetReservationJO\\Models\\UserModel.cs",
+              "RelativeToolTip": "Models\\UserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T09:56:56.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "offerController.cs",
               "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\BLOC3ProjetReservationJO\\Controllers\\offerController.cs",
               "RelativeDocumentMoniker": "Controllers\\offerController.cs",
@@ -116,25 +231,11 @@
               "RelativeToolTip": "Controllers\\offerController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T08:59:28.884Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T08:59:28.884Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "eventselection.js",
-              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\BLOC3ProjetReservationJO\\Views\\scripts\\eventselection.js",
-              "RelativeDocumentMoniker": "Views\\scripts\\eventselection.js",
-              "ToolTip": "C:\\Users\\maria\\source\\repos\\BLOC3ProjetReservationJO\\Views\\scripts\\eventselection.js",
-              "RelativeToolTip": "Views\\scripts\\eventselection.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-05-14T08:41:16.775Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\testMS\\UnitTest1.cs",
               "RelativeDocumentMoniker": "..\\testMS\\UnitTest1.cs",
@@ -142,64 +243,11 @@
               "RelativeToolTip": "..\\testMS\\UnitTest1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T08:28:35.739Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T08:28:35.739Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CreateAccompt.cshtml",
-              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\BLOC3ProjetReservationJO\\Views\\Home\\CreateAccompt.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\CreateAccompt.cshtml",
-              "ToolTip": "C:\\Users\\maria\\source\\repos\\BLOC3ProjetReservationJO\\Views\\Home\\CreateAccompt.cshtml",
-              "RelativeToolTip": "Views\\Home\\CreateAccompt.cshtml",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAAAEMAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-09T07:28:03.359Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\BLOC3ProjetReservationJO\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\maria\\source\\repos\\BLOC3ProjetReservationJO\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACoAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-08T19:05:50.334Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "command.cshtml",
-              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\BLOC3ProjetReservationJO\\Views\\Home\\command.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\command.cshtml",
-              "ToolTip": "C:\\Users\\maria\\source\\repos\\BLOC3ProjetReservationJO\\Views\\Home\\command.cshtml",
-              "RelativeToolTip": "Views\\Home\\command.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-09T13:35:58.564Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\BLOC3ProjetReservationJO\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\maria\\source\\repos\\BLOC3ProjetReservationJO\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-08T19:02:38.592Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\BLOC3ProjetReservationJO\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
@@ -211,7 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "bootstrap.css",
               "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\BLOC3ProjetReservationJO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
               "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
@@ -220,6 +268,40 @@
               "ViewState": "AQIAAD8AAAAAAAAAAIBJwFgAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-05-08T18:57:21.604Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "2c89ddae-0fd0-4f24-b8fe-a524dcf24ed9",
+        "Display": 1,
+        "X": 349,
+        "Y": 343,
+        "Width": 897,
+        "Height": 448,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateAccompt.cshtml",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\BLOC3ProjetReservationJO\\Views\\Home\\CreateAccompt.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\CreateAccompt.cshtml",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\BLOC3ProjetReservationJO\\Views\\Home\\CreateAccompt.cshtml",
+              "RelativeToolTip": "Views\\Home\\CreateAccompt.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAJoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T07:28:03.359Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,17 +1,16 @@
-﻿@{
-    ViewData["Title"] = "Se connecter  ";
-}
-<h1>@ViewData["Title"]</h1>
+﻿<!DOCTYPE html>
+<html lang="fr">
 
-
+<head>
+    <title>cRER UN COMPTE </title>
+</head>
 
 <body>
-
     <h1 class="text-center">connection</h1>
     
     <div class="container"></div>
     <div class="form-group row">
-        <div class="col-md-6">
+        <div class="col-md-6" >
             <!--Champs pour renseigner le nom d'utilisateur (nom) -->
             <div class="mb-3">
 
@@ -32,16 +31,21 @@
             
 
             <!--Bouton pour valider le formulaire-->
-            <button type="submit" class="btn btn-primary" onclick="doubleauthentification()">Créer un compte</button>
+            <button id="connect" type="submit" class="btn btn-primary" onclick="doubleAuth" >Se connecter </button>
 
         </div>
 
         <!--2e partie de la page pour afficher le lien double authentification-->
-        <div class="col-md-6" id="doubleauthentification" style="display:none;">
+        <div class="col-md-6" id="lienDoubleAuthentification" style="display:none;">
             <h2>double authentification</h2>
             <p>lien envoyé par mail pour valider la double authentification</p>
-            <a href="command.cshtml">Valider la double authentification</a>
+            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">valider double authentification </a>
+
 
 
         </div>
     </div>
+    <script type="text/javascript" src="../js/validationformulaire.js"></script>
+    <script type="text/javascript" src="../js/sendingDatas.js"></script>
+</body>
+</html>

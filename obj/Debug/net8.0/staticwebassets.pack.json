@@ -25,8 +25,20 @@
       "PackagePath": "staticwebassets\\images\\natation.JPG"
     },
     {
+      "Id": "C:\\Users\\maria\\source\\repos\\BLOC3ProjetReservationJO\\wwwroot\\js\\eventselection.js",
+      "PackagePath": "staticwebassets\\js\\eventselection.js"
+    },
+    {
+      "Id": "C:\\Users\\maria\\source\\repos\\BLOC3ProjetReservationJO\\wwwroot\\js\\sendingDatas.js",
+      "PackagePath": "staticwebassets\\js\\sendingDatas.js"
+    },
+    {
       "Id": "C:\\Users\\maria\\source\\repos\\BLOC3ProjetReservationJO\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\maria\\source\\repos\\BLOC3ProjetReservationJO\\wwwroot\\js\\validationformulaire.js",
+      "PackagePath": "staticwebassets\\js\\validationformulaire.js"
     },
     {
       "Id": "C:\\Users\\maria\\source\\repos\\BLOC3ProjetReservationJO\\wwwroot\\lib\\bootstrap\\LICENSE",

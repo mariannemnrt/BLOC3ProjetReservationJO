@@ -33,6 +33,16 @@ namespace BLOC3ProjetReservationJO.Controllers
             return View();
         }
 
+        public IActionResult command()
+        {
+            return View();
+        }
+
+        public IActionResult Offre()
+        {
+            return View();
+        }
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {

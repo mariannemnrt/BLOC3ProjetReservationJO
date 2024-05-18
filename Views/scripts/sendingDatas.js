@@ -1,1 +1,0 @@
-﻿// scripts pour envoyer les données au controller pour l'inscription

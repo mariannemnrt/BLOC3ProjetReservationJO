@@ -1,27 +1,23 @@
-﻿<!DOCTYPE html> 
-<html lang="fr">
-
-    <head>
-        <title>cRER UN COMPTE </title>
-    </head>
-    <body>
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
 
         <h1>Créer son compte</h1>
         <p>Veuillez créer un compte pour terminer votre réservation</p>
         <div class="container"></div>
             <div class="form-group row">
-                <div class="col-md-6">
+                <div class="col-md-6" >
                 <!--Champs pour renseigner le nom de l'utilisateur -->
                     <div class="mb-3">
             
                         <label for="UserName" class="form-label form-control-sm" >Nom d'utilisateur  </label>
-                        <input type="text" class="form-control" id="UserName" placeholder="Dupuis" required>
+                        <input type="text" class="form-control" id="UserName" placeholder="Dupuis" onchange="NameLength()" required>
                     </div>
 
                     <!--Champs pour renseigner le prénom de l'utilisateur -->
                 <div class="mb-3">
                     <label for="UserFirstName" class="form-label">Prénom utilisateur  </label>
-                    <input type="text" class="form-control" id="UserFirstName" placeholder="Martin" required>
+                    <input type="text" class="form-control" id="UserFirstName" placeholder="Martin" onchange="NameLength()" required>
                 </div>
 
                 <!--Champs pour renseigner l'email de l'utilisateur-->
@@ -53,15 +49,15 @@
                 </div>
 
                 <!--Bouton pour valider le formulaire-->
-                <button type="submit" class="btn btn-primary" onclick="doubleauthentification()">Créer un compte</button>
+                <button type="button" id="validateCreation" class="btn btn-primary" onclick="doubleAuth()" >Créer un compte</button>
 
             </div>
 
             <!--2e partie de la page pour afficher le lien double authentification-->
-            <div class="col-md-6" id="doubleauthentification" style="display:none;">
+            <div class="col-md-6" id="lienDoubleAuthentification" onclick ="sendingDatas" style="display:none">
                 <h2>double authentification</h2>
                 <p>lien envoyé par mail pour valider la double authentification</p>
-                <a href="command.cshtml">Valider la double authentification</a>
+            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="command">valider double authentification </a>
 
 
             </div>
@@ -69,8 +65,8 @@
 
 
 
-
-            <!--lien vers le fichier js pour vérifier les champs-->
+        
+            <!--lien vers le fichier js pour vérifier les champs
         <script >
             // Scripts pour valider les champs du formulaire coté client
             function validerMotDePasse() {
@@ -151,7 +147,8 @@
             };
 
 
-        </script>
-    <!--<script type="text/javascript" src="../scripts/validationformulaire.js"></script>-->
-    </body>
-</html>
+        </script>-->
+        
+    <script type="text/javascript" src="../js/validationformulaire.js"></script>
+    <script type="text/javascript" src ="../js/sendingDatas.js"></script>
+

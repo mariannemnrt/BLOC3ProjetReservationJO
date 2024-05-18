@@ -10,8 +10,8 @@ document.getElementById('XXX').onclick = function () {
 $.ajax({
     url: '/Offres/EventSelection',
     type: 'POST',
-    data: { id: eventId},
+    data: { id: eventId },
 },
     error: function (xhr, status, error) {
-    console.log('error');
-})
+        console.log('error');
+    });
